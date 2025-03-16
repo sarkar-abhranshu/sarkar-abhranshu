@@ -5,7 +5,7 @@
 ###
 
 # 💫 About Me:
-🔭 I’m currently working on Arduino, IoT and applications of AI in IoT<br>👯 I’m looking to collaborate on projects related to AI/ML<br>🌱 I’m currently learning Data Analysis, App Development using React Native
+🔭 I’m currently working on Arduino, IoT and applications of AI in IoT<br>👯 I’m looking to collaborate on projects related to AI/ML<br>🌱 I’m currently learning Data Analysis, App Development using React Native and Arduino Coding
 
 
 ## 🌐 Socials:
