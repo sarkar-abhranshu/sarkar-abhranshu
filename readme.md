@@ -5,7 +5,7 @@
 ###
 
 # 💫 About Me:
-🔭 I’m currently working on App Development, ML and integrating AI into mobile and web apps.<br>👯 I’m looking to collaborate on projects related to AI/ML<br>🌱 I’m currently learning Data Analysis, App Development using React Native and Arduino Coding
+🔭 I’m currently working on App Development, ML and integrating AI into mobile and web apps.<br>👯 I’m looking to collaborate on projects related to AI/ML<br>🌱 I’m currently learning Data Analysis, App Development using React Native and Web Development
 
 
 ## 🌐 Socials:
